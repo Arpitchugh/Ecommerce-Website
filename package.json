@@ -1,0 +1,13 @@
+{
+  "name": "mobileShop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arpit",
+  "scripts":{
+    "start":"sass ./sass/style.scss style.css --watch"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
